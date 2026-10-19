@@ -1,0 +1,5 @@
+/uploads/profiles/*
+!/uploads/profiles/.gitkeep
+.env
+.DS_Store
+Thumbs.db
